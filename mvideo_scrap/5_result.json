@@ -1,0 +1,314 @@
+{
+    "30061893": {
+        "name": "noutbuk-hp-17-cp0126ur-5d666ea",
+        "properties": [
+            "17.3\"/1920x1080 \u043f\u0438\u043a\u0441.",
+            "AMD Ryzen 5 5500U 2.1 \u0413\u0413\u0446",
+            "16",
+            "Radeon",
+            "512 \u0413\u0411"
+        ],
+        "basePrice": 69999,
+        "salePrice": 53999,
+        "bonus": 5400
+    },
+    "30061244": {
+        "name": "noutbuk-asus-r522ma-bq862w",
+        "properties": [
+            "15.6\"/1920x1080 \u043f\u0438\u043a\u0441.",
+            "Intel Celeron N4020 1.1 \u0413\u0413\u0446",
+            "4",
+            "Intel UHD Graphics 600",
+            "Windows 11 \u0414\u043e\u043c\u0430\u0448\u043d\u044f\u044f 64"
+        ],
+        "basePrice": 44999,
+        "salePrice": 25999,
+        "bonus": 2600
+    },
+    "30056685": {
+        "name": "noutbuk-honor-magicbook-x-14-i3-8-256-space-gray-nbr-wai9",
+        "properties": [
+            "14\"/1920x1080 \u043f\u0438\u043a\u0441.",
+            "Intel Core i3 10110U 2.1 \u0413\u0413\u0446",
+            "8",
+            "Intel UHD Graphics",
+            "256 \u0413\u0411"
+        ],
+        "basePrice": 49999,
+        "salePrice": 44999,
+        "bonus": 1350
+    },
+    "30062057": {
+        "name": "noutbuk-hp-15s-fq0094ur-669x9ea",
+        "properties": [
+            "15.6\"/1920x1080 \u043f\u0438\u043a\u0441.",
+            "Intel Pentium Silver N5030 1.1 \u0413\u0413\u0446",
+            "4",
+            "Intel UHD Graphics 605",
+            "256 \u0413\u0411"
+        ],
+        "basePrice": 39999,
+        "salePrice": 27499,
+        "bonus": 825
+    },
+    "30056687": {
+        "name": "noutbuk-honor-magicbook-x-15-i5-8-512-gray-bbr-wah9",
+        "properties": [
+            "15.6\"/1920x1080 \u043f\u0438\u043a\u0441.",
+            "Intel Core i5 10210U 1.6 \u0413\u0413\u0446",
+            "8",
+            "Intel UHD Graphics",
+            "512 \u0413\u0411"
+        ],
+        "basePrice": 64999,
+        "salePrice": 59999,
+        "bonus": 1800
+    },
+    "30062055": {
+        "name": "noutbuk-honor-magicbook-x14-i5-8-512-silver-nbr-wah9",
+        "properties": [
+            "14\"/1920x1080 \u043f\u0438\u043a\u0441.",
+            "Intel Core i5 10210U 1.6 \u0413\u0413\u0446",
+            "8",
+            "Intel UHD Graphics",
+            "512 \u0413\u0411"
+        ],
+        "basePrice": 61999,
+        "salePrice": 54999,
+        "bonus": 1650
+    },
+    "30061174": {
+        "name": "noutbuk-huawei-matebook-d-15-bod-wfe9-16512gb-space-grey",
+        "properties": [
+            "15.6\"/1920x1080 \u043f\u0438\u043a\u0441.",
+            "Intel Core i7 1165G7 2.8 \u0413\u0413\u0446",
+            "16",
+            "Intel Iris Xe Graphics",
+            "512 \u0413\u0411"
+        ],
+        "basePrice": 99999,
+        "salePrice": 79999,
+        "bonus": 2400
+    },
+    "30061837": {
+        "name": "noutbuk-asus-vivobook-r565ja-bq2497w",
+        "properties": [
+            "15.6\"/1920x1080 \u043f\u0438\u043a\u0441.",
+            "Intel Core i5 1035G1 1 \u0413\u0413\u0446",
+            "8",
+            "Intel UHD Graphics",
+            "512 \u0413\u0411"
+        ],
+        "basePrice": 64999,
+        "salePrice": 49999,
+        "bonus": 1500
+    },
+    "30061222": {
+        "name": "noutbuk-huawei-matebook-16-crem-wfd9-16512gb-space-grey",
+        "properties": [
+            "16\"/2520x1680 \u043f\u0438\u043a\u0441.",
+            "AMD Ryzen 7 5800H 3.2 \u0413\u0413\u0446",
+            "16",
+            "Radeon Graphics",
+            "512 \u0413\u0411"
+        ],
+        "basePrice": 139999,
+        "salePrice": 99999,
+        "bonus": 3000
+    },
+    "30058955": {
+        "name": "noutbuk-irbis-nb256",
+        "properties": [
+            "14\"/1366x768 \u043f\u0438\u043a\u0441.",
+            "Intel Celeron N3350 1.1 \u0413\u0413\u0446",
+            "4",
+            "Intel HD Graphics 500",
+            "Windows 10 \u0414\u043e\u043c\u0430\u0448\u043d\u044f\u044f"
+        ],
+        "basePrice": 21999,
+        "salePrice": 13999,
+        "bonus": 420
+    },
+    "30061888": {
+        "name": "noutbuk-hp-15s-fq2110ur-5d5e4ea",
+        "properties": [
+            "15.6\"/1920x1080 \u043f\u0438\u043a\u0441.",
+            "Intel Core i5 1135G7 2.4 \u0413\u0413\u0446",
+            "8",
+            "Intel Iris Xe Graphics",
+            "512 \u0413\u0411"
+        ],
+        "basePrice": 69999,
+        "salePrice": 54999,
+        "bonus": 1650
+    },
+    "30056994": {
+        "name": "noutbuk-igrovoi-hp-pavilion-gaming-15-ec2024ur-491k4ea",
+        "properties": [
+            "15.6\"/1920x1080 \u043f\u0438\u043a\u0441.",
+            "AMD Ryzen 5 5600H 3.3 \u0413\u0413\u0446",
+            "8",
+            "GeForce GTX 1650 4GB Max-Q",
+            "512 \u0413\u0411"
+        ],
+        "basePrice": 79999,
+        "salePrice": 74999,
+        "bonus": 2250
+    },
+    "30058603": {
+        "name": "noutbuk-digma-eve-15-c423-cel-n3350-es5069ew",
+        "properties": [
+            "15.5\"/1920x1080 \u043f\u0438\u043a\u0441.",
+            "Intel Celeron N3350 1.1 \u0413\u0413\u0446",
+            "4",
+            "Intel HD Graphics 500",
+            "Windows 10 \u0414\u043e\u043c\u0430\u0448\u043d\u044f\u044f"
+        ],
+        "basePrice": 25999,
+        "salePrice": 17999,
+        "bonus": 540
+    },
+    "30061301": {
+        "name": "noutbuk-asus-vivobook-s14-s433jq-eb076t",
+        "properties": [
+            "14\"/1920x1080 \u043f\u0438\u043a\u0441.",
+            "Intel Core i5 1035G1 1 \u0413\u0413\u0446",
+            "8",
+            "GeForce MX350 2\u0413\u0411",
+            "512 \u0413\u0411"
+        ],
+        "basePrice": 84999,
+        "salePrice": 59999,
+        "bonus": 1800
+    },
+    "30058276": {
+        "name": "noutbuk-igrovoi-hp-omen-16-c0025ur-491m1ea",
+        "properties": [
+            "16.1\"/1920x1080 \u043f\u0438\u043a\u0441.",
+            "AMD Ryzen 5 5600H 3.3 \u0413\u0413\u0446",
+            "16",
+            "Radeon RX 6600M 8GB",
+            "512 \u0413\u0411"
+        ],
+        "basePrice": 129999,
+        "salePrice": 104999,
+        "bonus": 3150
+    },
+    "30062011": {
+        "name": "noutbuk-asus-r465ja-ek1430w90nb0st1-m22330",
+        "properties": [
+            "14\"/1920x1080 \u043f\u0438\u043a\u0441.",
+            "Intel Core i3 1005G1 1.2 \u0413\u0413\u0446",
+            "8",
+            "Intel UHD Graphics",
+            "512 \u0413\u0411"
+        ],
+        "basePrice": 59999,
+        "salePrice": 39999,
+        "bonus": 1200
+    },
+    "30062678": {
+        "name": "noutbuk-igrovoi-acer-aspire-7-a715-42g-r44j-nhqdler004",
+        "properties": [
+            "15.6\"/1920x1080 \u043f\u0438\u043a\u0441.",
+            "AMD Ryzen 5 5500U 2.1 \u0413\u0413\u0446",
+            "8",
+            "GeForce RTX 3050 Ti \u0434\u043b\u044f \u043d\u043e\u0443\u0442\u0431\u0443\u043a\u043e\u0432 4GB",
+            "512 \u0413\u0411"
+        ],
+        "basePrice": 109999,
+        "salePrice": 84999,
+        "bonus": 2550
+    },
+    "30062058": {
+        "name": "noutbuk-hp-15s-eq1436ur-669x8ea",
+        "properties": [
+            "15.6\"/1920x1080 \u043f\u0438\u043a\u0441.",
+            "AMD Athlon 3150U 2.4 \u0413\u0413\u0446",
+            "4",
+            "Radeon",
+            "256 \u0413\u0411"
+        ],
+        "basePrice": 49999,
+        "salePrice": 33999,
+        "bonus": 1020
+    },
+    "30062431": {
+        "name": "noutbuk-igrovoi-acer-nitro-an517-54-77ps-nhqfcer006",
+        "properties": [
+            "17.3\"/1920x1080 \u043f\u0438\u043a\u0441.",
+            "Intel Core i7 11800H 2.3 \u0413\u0413\u0446",
+            "16",
+            "GeForce RTX 3070 \u0434\u043b\u044f \u043d\u043e\u0443\u0442\u0431\u0443\u043a\u043e\u0432 8GB",
+            "512 \u0413\u0411"
+        ],
+        "basePrice": 214999,
+        "salePrice": 159999,
+        "bonus": 4800
+    },
+    "30057478": {
+        "name": "noutbuk-digma-eve-15-p418-es5064ew",
+        "properties": [
+            "15.6\"/1920x1080 \u043f\u0438\u043a\u0441.",
+            "Intel Pentium J3710 1.6 \u0413\u0413\u0446",
+            "4",
+            "Intel HD Graphics 405",
+            "Windows 10"
+        ],
+        "basePrice": 27999,
+        "salePrice": 17999,
+        "bonus": 540
+    },
+    "30061892": {
+        "name": "noutbuk-hp-17-cp0125ur-5d5g5ea",
+        "properties": [
+            "17.3\"/1600x900 \u043f\u0438\u043a\u0441.",
+            "AMD Ryzen 3 3250U 2.6 \u0413\u0413\u0446",
+            "8",
+            "Radeon",
+            "256 \u0413\u0411"
+        ],
+        "basePrice": 51999,
+        "salePrice": 43999,
+        "bonus": 1320
+    },
+    "30061553": {
+        "name": "noutbuk-hp-15s-eq2122ur-601f9ea",
+        "properties": [
+            "15.6\"/1920x1080 \u043f\u0438\u043a\u0441.",
+            "AMD Ryzen 5 5500U 2.1 \u0413\u0413\u0446",
+            "8",
+            "Radeon",
+            "256 \u0413\u0411"
+        ],
+        "basePrice": 59999,
+        "salePrice": 47999,
+        "bonus": 1440
+    },
+    "30061891": {
+        "name": "noutbuk-hp-17-cn0101ur-5d5g4ea",
+        "properties": [
+            "17.3\"/1920x1080 \u043f\u0438\u043a\u0441.",
+            "Intel Core i5 1135G7 2.4 \u0413\u0413\u0446",
+            "8",
+            "Intel Iris Xe Graphics",
+            "512 \u0413\u0411"
+        ],
+        "basePrice": 64999,
+        "salePrice": 59999,
+        "bonus": 1800
+    },
+    "30062056": {
+        "name": "noutbuk-honor-magicbook-x15-i5-16-512-grey-bbr-wah9",
+        "properties": [
+            "15.6\"/1920x1080 \u043f\u0438\u043a\u0441.",
+            "Intel Core i5 10210U 1.6 \u0413\u0413\u0446",
+            "16",
+            "Intel UHD Graphics",
+            "512 \u0413\u0411"
+        ],
+        "basePrice": 74999,
+        "salePrice": 69999,
+        "bonus": 2100
+    }
+}
