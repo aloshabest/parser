@@ -154,7 +154,7 @@ def get_data():
     #Запись списка ID в файл
     products_ids = response.get('body').get('products')
 
-    with open('1_products_ids.json', 'w') as file:
+    with open('1_products_ids.json', 'w', encoding='utf-8') as file:
         json.dump(products_ids, file, indent=4, ensure_ascii=False)
 
 
@@ -180,8 +180,8 @@ def get_data():
     response = requests.post('https://www.mvideo.ru/bff/product-details/list', cookies=cookies, headers=headers,
                              json=json_data).json()
 
-    with open('2_items.json', 'w') as file:
-        json.dump(response, file, indent=4)
+    with open('2_items.json', 'w', encoding='utf-8') as file:
+        json.dump(response, file, indent=4, ensure_ascii=False)
 
 
 #Формирование списка цен, скидок и бонусов и запись в файл
@@ -195,8 +195,8 @@ def get_data():
     response = requests.get('https://www.mvideo.ru/bff/products/prices', params=params, cookies=cookies,
                             headers=headers).json()
 
-    with open('3_prices.json', 'w') as file:
-        json.dump(response, file, indent=4)
+    with open('3_prices.json', 'w', encoding='utf-8') as file:
+        json.dump(response, file, indent=4, ensure_ascii=False)
 
 
 
@@ -217,18 +217,18 @@ def get_data():
             'item_bonus': item_bonus
         }
 
-    with open('4_items__prices.json', 'w') as file:
-        json.dump(item_prices, file, indent=4)
+    with open('4_items__prices.json', 'w', encoding='utf-8') as file:
+        json.dump(item_prices, file, indent=4, ensure_ascii=False)
 
 
 
 def get_result():
     """Функция формирования итогового списка скидочных товаров путем чтения из файлов с полным описанием и ценой и формированием более краткого описания через ID  и добавление к этому описанию цены и скидок"""
 
-    with open('2_items.json') as file:
+    with open('2_items.json', encoding='utf-8') as file:
         products_data = json.load(file)
 
-    with open('4_items__prices.json') as file:
+    with open('4_items__prices.json', encoding='utf-8') as file:
         products_prices = json.load(file)
 
     data = products_data.get('body').get('products')
@@ -237,7 +237,7 @@ def get_result():
 
     for item in data:
         product_id = item.get('productId')
-        product_name = item.get('nameTranslit')
+        product_name = item.get('name')
         product_properties = item.get('propertiesPortion')
         list_properties = [i.get('value') for i in product_properties]
 
@@ -249,11 +249,12 @@ def get_result():
             'properties': list_properties,
             'basePrice': prices.get('item_basePrice'),
             'salePrice': prices.get('item_salePrice'),
+            'sale': (prices.get('item_basePrice') - prices.get('item_salePrice')),
             'bonus': prices.get('item_bonus')
         }
 
-    with open('5_result.json', 'w') as file:
-        json.dump(item_result, file, indent=4)
+    with open('5_result.json', 'w', encoding='utf-8') as file:
+        json.dump(item_result, file, indent=4, ensure_ascii=False)
 
 
 def main():
