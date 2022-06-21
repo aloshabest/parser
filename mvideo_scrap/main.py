@@ -158,7 +158,6 @@ def get_data():
         json.dump(products_ids, file, indent=4, ensure_ascii=False)
 
 
-
 #Формирование полного описания товара через ID  и запись в файл
     json_data = {
         'productIds': products_ids,
@@ -239,19 +238,22 @@ def get_result():
         product_id = item.get('productId')
         product_name = item.get('name')
         product_properties = item.get('propertiesPortion')
-        list_properties = [i.get('value') for i in product_properties]
+        list_properties = {i.get('name'): i.get('value') for i in product_properties}
 
         if product_id in products_prices:
             prices = products_prices[product_id]
 
         item_result[product_id] = {
             'name': product_name,
-            'properties': list_properties,
-            'basePrice': prices.get('item_basePrice'),
-            'salePrice': prices.get('item_salePrice'),
-            'sale': (prices.get('item_basePrice') - prices.get('item_salePrice')),
-            'bonus': prices.get('item_bonus')
         }
+        for k, v in list_properties.items():
+            item_result[product_id][k] = v
+
+        item_result[product_id]['basePrice'] = prices.get('item_basePrice')
+        item_result[product_id]['salePrice'] = prices.get('item_salePrice')
+        item_result[product_id]['sale'] = (prices.get('item_basePrice') - prices.get('item_salePrice'))
+        item_result[product_id]['bonus'] = prices.get('item_bonus')
+
 
     with open('5_result.json', 'w', encoding='utf-8') as file:
         json.dump(item_result, file, indent=4, ensure_ascii=False)

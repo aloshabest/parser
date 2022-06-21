@@ -1,0 +1,25 @@
+Название,Диагональ/разрешение,Процессор,Оперативная память (RAM),Графический контроллер,Объем SSD,Операционная система,Обычная цена,Скидочная цена,Сумма скидки,Бонус
+Ноутбук HP 17-cp0126ur 5D666EA,"17.3""/1920x1080 пикс.",AMD Ryzen 5 5500U 2.1 ГГц,16,Radeon,512 ГБ,,69999,53999,16000,5400
+Ноутбук ASUS R522MA-BQ862W,"15.6""/1920x1080 пикс.",Intel Celeron N4020 1.1 ГГц,4,Intel UHD Graphics 600,,Windows 11 Домашняя 64,44999,25999,19000,2600
+Ноутбук Honor MagicBook X 14 i3/8/256 Space Gray (NBR-WAI9),"14""/1920x1080 пикс.",Intel Core i3 10110U 2.1 ГГц,8,Intel UHD Graphics,256 ГБ,,49999,44999,5000,1350
+Ноутбук Honor MagicBook X 15 i5/8/512 Gray (BBR-WAH9),"15.6""/1920x1080 пикс.",Intel Core i5 10210U 1.6 ГГц,8,Intel UHD Graphics,512 ГБ,,64999,59999,5000,1800
+Ноутбук Honor MagicBook X14 i5/8/512 Silver (NBR-WAH9),"14""/1920x1080 пикс.",Intel Core i5 10210U 1.6 ГГц,8,Intel UHD Graphics,512 ГБ,,61999,54999,7000,1650
+Ноутбук ASUS Vivobook R565JA-BQ2497W,"15.6""/1920x1080 пикс.",Intel Core i5 1035G1 1 ГГц,8,Intel UHD Graphics,512 ГБ,,64999,49999,15000,1500
+Ноутбук HP 15s-fq2110ur 5D5E4EA,"15.6""/1920x1080 пикс.",Intel Core i5 1135G7 2.4 ГГц,8,Intel Iris Xe Graphics,512 ГБ,,69999,54999,15000,1650
+Ноутбук HUAWEI MateBook 16 CREM-WFD9 16+512GB Space Grey,"16""/2520x1680 пикс.",AMD Ryzen 7 5800H 3.2 ГГц,16,Radeon Graphics,512 ГБ,,139999,99999,40000,3000
+Ноутбук Irbis NB256,"14""/1366x768 пикс.",Intel Celeron N3350 1.1 ГГц,4,Intel HD Graphics 500,,Windows 10 Домашняя,21999,13999,8000,420
+Ноутбук HP 15s-eq1436ur (669X8EA),"15.6""/1920x1080 пикс.",AMD Athlon 3150U 2.4 ГГц,4,Radeon,256 ГБ,,49999,33999,16000,1020
+Ноутбук игровой HP Pavilion Gaming 15-ec2024ur 491K4EA,"15.6""/1920x1080 пикс.",AMD Ryzen 5 5600H 3.3 ГГц,8,GeForce GTX 1650 4GB Max-Q,512 ГБ,,79999,74999,5000,2250
+Ноутбук игровой HP OMEN 16-c0025ur 491M1EA,"16.1""/1920x1080 пикс.",AMD Ryzen 5 5600H 3.3 ГГц,16,Radeon RX 6600M 8GB,512 ГБ,,129999,104999,25000,3150
+Ноутбук игровой Acer Aspire 7 A715-42G-R44J (NH.QDLER.004),"15.6""/1920x1080 пикс.",AMD Ryzen 5 5500U 2.1 ГГц,8,GeForce RTX 3050 Ti для ноутбуков 4GB,512 ГБ,,109999,84999,25000,2550
+Ноутбук ASUS VivoBook S14 S433JQ-EB076T,"14""/1920x1080 пикс.",Intel Core i5 1035G1 1 ГГц,8,GeForce MX350 2ГБ,512 ГБ,,84999,59999,25000,1800
+Ноутбук Digma EVE 15 P418 (ES5064EW),"15.6""/1920x1080 пикс.",Intel Pentium J3710 1.6 ГГц,4,Intel HD Graphics 405,,Windows 10,27999,17999,10000,540
+Ноутбук игровой Acer Nitro AN517-54-77PS (NH.QFCER.006),"17.3""/1920x1080 пикс.",Intel Core i7 11800H 2.3 ГГц,16,GeForce RTX 3070 для ноутбуков 8GB,512 ГБ,,214999,159999,55000,4800
+Ноутбук ASUS R465JA-EK1430W(90NB0ST1-M22330),"14""/1920x1080 пикс.",Intel Core i3 1005G1 1.2 ГГц,8,Intel UHD Graphics,512 ГБ,,59999,39999,20000,1200
+Ноутбук HP 17-cp0125ur 5D5G5EA,"17.3""/1600x900 пикс.",AMD Ryzen 3 3250U 2.6 ГГц,8,Radeon,256 ГБ,,51999,43999,8000,1320
+Ноутбук Digma EVE 15 C423 Cel N3350 (ES5069EW),"15.5""/1920x1080 пикс.",Intel Celeron N3350 1.1 ГГц,4,Intel HD Graphics 500,,Windows 10 Домашняя,25999,17999,8000,540
+Ноутбук игровой HP OMEN 16-c0001ur 491L8EA,"16.1""/1920x1080 пикс.",AMD Ryzen 7 5800H 3.2 ГГц,16,GeForce RTX 3070 для ноутбуков 8GB,1 ТБ,,159999,139999,20000,4200
+Ноутбук Lenovo IdeaPad 3 14ADA05 (81W000FXRU),"14""/1920x1080 пикс.",AMD Ryzen 5 3500U 2.1 ГГц,8,Radeon Vega 8,256 ГБ,,59999,44999,15000,1350
+Ноутбук Acer Aspire 3 A314-22-R2BV NX.HVVER.00Z,"14""/1920x1080 пикс.",AMD Ryzen 3 3250U 2.6 ГГц,8,Radeon Graphics,512 ГБ,,66999,39999,27000,1200
+Ноутбук Lenovo IdeaPad 3 14ADA05 (81W000KNRU),"14""/1920x1080 пикс.",AMD Ryzen 5 3500U 2.1 ГГц,8,Radeon Vega 8,512 ГБ,,54999,44999,10000,1350
+Ноутбук HP 17-cn0101ur 5D5G4EA,"17.3""/1920x1080 пикс.",Intel Core i5 1135G7 2.4 ГГц,8,Intel Iris Xe Graphics,512 ГБ,,64999,59999,5000,1800
