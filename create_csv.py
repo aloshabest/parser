@@ -1,11 +1,9 @@
 import csv, json
 
 
+def create_csv():
 
-
-def get_result():
-
-    with open('notebook.csv', 'w', encoding='utf-8') as file:
+    with open('mvideo_notebook.csv', 'w', encoding='utf-8') as file:
         writer = csv.writer(file)
 
         writer.writerow(
@@ -30,7 +28,7 @@ def get_result():
 
     for item in data:
 
-        with open('notebook.csv', 'a', encoding='utf-8') as file:
+        with open('mvideo_notebook.csv', 'a', encoding='utf-8') as file:
             writer = csv.writer(file)
 
             writer.writerow(
@@ -51,9 +49,8 @@ def get_result():
             )
 
 
-
 def main():
-    get_result()
+    create_csv()
 
 
 if __name__ == '__main__':
