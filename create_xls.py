@@ -1,6 +1,7 @@
 import xlsxwriter, json
 
 def create_excel():
+    """Функция создания таблицы полученных данных в формате excel"""
 
     with xlsxwriter.Workbook('mvideo_notebooks.xlsx') as workbook:
         ws = workbook.add_worksheet()
