@@ -1,12 +1,8 @@
 import requests
 import json
 
-def get_data(i):
-    """Функция сбора необходимой информации"""
-
-#Формирование списка из ID товара
-    import requests
-
+def get_data():
+    """Функция с данными, полученными с сайта"""
     cookies = {
         '__lhash_': '0423e00b65250babbee0f9dbb2bbc544',
         'iRegionSectionId': '11324',
@@ -121,20 +117,30 @@ def get_data(i):
         'tags': '[]',
     }
 
+    return cookies, headers, params
 
+
+
+
+def main():
+    """Функция создания JSON файла товаров"""
+    cookies, headers, params = get_data()
+    # количество страниц в поиске
+    i = 5
 
     items = {}
-    x = -36
-    for j in range(i):
-        x += 36
-        params['offset'] = x
 
+    # перебор страниц поиска (по данным 'limit': '36', на 1 странице 36 товаров)
+    quantity = 0
+    for j in range(i):
+        params['offset'] = quantity
+        quantity += 36
 
         response = requests.get('https://www.eldorado.ru/sem/v3/A408/categories/noutbuki/products', params=params,
                                 cookies=cookies, headers=headers).json()
-
-
         products = response.get('data')
+
+        # добавление элементов с определенной страницы в общий словарь
         for item in products:
             product_id = item.get('id')
             name = item.get('name')
@@ -149,16 +155,10 @@ def get_data(i):
                 for key, value in v.items():
                     items[product_id][key] = value
 
-
     with open('products.json', 'w', encoding='utf-8') as file:
         json.dump(items, file, indent=4, ensure_ascii=False)
 
 
-
-def main():
-    #количество страниц в поиске
-    i = 5
-    get_data(i)
 
 if __name__ == '__main__':
     main()
