@@ -1,4 +1,74 @@
 Название,Цена,Операционная система,Диагональ экрана,Разрешение экрана,Производитель процессора,Модель процессора,Тактовая частота,Объем оперативной памяти,Тип оперативной памяти,Тип накопителя,Объем накопителя,Производитель видеокарты,Модель видеокарты,Объем видеопамяти,Цвет
+Ноутбук HP 15s-eq1419ur (60Q32EA),36999,Windows 11 Домашняя x64,"15.6""",1920x1080 Пикс,AMD,Ryzen 3 3250U,2.6 ГГц,8 ГБ,DDR4,SSD,256 ГБ,AMD,Radeon,,Серебристый
+Ноутбук Digma Eve 10 A200 (ES1052EW),9999,Windows 10 Домашняя x64,"10.1""",1366x768 Пикс,Intel,Atom x5-Z8350,1.44 ГГц,2 ГБ,DDR3,eMMC,64 ГБ,Intel,HD Graphics,,Черный
+Ноутбук Lenovo IdeaPad 3 14ADA05 (81W000KNRU),44999,Windows 10 Домашняя x64,"14""",1920x1080 Пикс,AMD,Ryzen 5 3500U,2.1 ГГц,4 ГБ,DDR4,SSD,512 ГБ,AMD,Radeon Vega 8,,Синий
+Ноутбук HP 15s-eq2107ur (5R9R6EA),54999,Windows 11 Домашняя x64,"15.6""",1920x1080 Пикс,AMD,Ryzen 3 5300U,2.6 ГГц,8 ГБ,DDR4,SSD,256 ГБ,AMD,Radeon,,Серый
+Ноутбук Irbis NB141,19999,Windows 10,"14.1""",1920x1080 Пикс,Intel,Celeron N3350,1.1 ГГц,4 ГБ,LPDDR3,eMMC,64 ГБ,Intel,Intel HD Graphics 500,,Голубой
+Ноутбук HUAWEI MateBook D 15 8+512GB Space Grey (BoD-WDH9/53012TLT),69999,,"15.6""",1920x1080 Пикс,Intel,Core i5-1135G7,2.4 ГГц,8 ГБ,DDR4,SSD,512 ГБ,Intel,Iris Xe Graphics,,Серый
+Ноутбук Honor MagicBook X 15 i5/8/512 Space Gray (BBR-WAH9),59999,Windows 10 Домашняя x64,"15.6""",1920x1080 Пикс,Intel,Core i5-10210U,1.6 ГГц,8 ГБ,DDR4,SSD,512 ГБ,Intel,UHD Graphics,,Серый
+Ноутбук Lenovo IdeaPad 3 14ADA05 (81W000FXRU),44999,Windows 10 Домашняя в S-режиме,"14""",1920x1080 Пикс,AMD,Ryzen 5 3500U,2.1 ГГц,8 ГБ,DDR4,SSD,256 ГБ,AMD,Radeon Vega 8,,Синий
+Ноутбук Lenovo IdeaPad 3 14ADA05 (81W000KQRU),33999,Windows 10,"14""",1920x1080 Пикс,AMD,Athlon Silver 3050U,2.3 ГГц,4 ГБ,DDR4,,,AMD,Radeon Graphics,,Синий
+Ноутбук HP 15s-eq2086ur (5D5E2EA),42999,Windows 11 Домашняя x64,"15.6""",1920x1080 Пикс,AMD,Ryzen 3 5300U,2.6 ГГц,8 ГБ,DDR4,SSD,256 ГБ,AMD,Radeon,,Серебристый
+Ноутбук HP 15s-eq1322ur (3B2X0EA),29999,FreeDOS,"15.6""",1920x1080 Пикс,AMD,3020e,1.2 ГГц,8 ГБ,DDR4,SSD,256 ГБ,AMD,Radeon Graphics,,"Серый, Черный"
+Ноутбук HP 17-cp0125ur (5D5G5EA),43999,Windows 11 Домашняя x64,"17.3""",1600x900 Пикс,AMD,Ryzen 3 3250U,2.6 ГГц,8 ГБ,DDR4,SSD,256 ГБ,AMD,Radeon,,Черный
+Ноутбук HP 15s-fq0094ur (669X9EA),39999,Windows 11 Домашняя x64,"15.6""",1920x1080 Пикс,Intel,Pentium Silver N5030,1.1 ГГц,4 ГБ,DDR4,SSD,256 ГБ,Intel,UHD Graphics 605,,Серый
+Ноутбук Acer Aspire 5 A517-52-33P2 (NX.A5DER.00W),59999,Windows 11 Домашняя x64,"17.3""",1920x1080 Пикс,Intel,Core i3-1115G4,3 ГГц,8 ГБ,DDR4,SSD,512 ГБ,Intel,UHD Graphics,,Серебристый
+Ультрабук Honor MagicBook X 14 i3/8/256 Space Gray (NBR-WAI9),44999,Windows 10 Домашняя x64,"14""",1920x1080 Пикс,Intel,Core i3-10110U,2.1 ГГц,8 ГБ,DDR4,SSD,256 ГБ,Intel,UHD Graphics,,Серый
+Ноутбук Honor MagicBook X14 i5/8/512 Silver (NBR-WAH9),54999,Windows 10 Домашняя x64,"14""",1920x1080 Пикс,Intel,Core i5-10210U,1.6 ГГц,8 ГБ,DDR4,SSD,512 ГБ,Intel,UHD Graphics,,Серый
+Ноутбук Digma Eve 15 C423 Cel N3350 (ES5069EW),17999,Windows 10 Домашняя,"15.5""",1920x1080 Пикс,Intel,Celeron N3350,1.1 ГГц,4 ГБ,DDR3,eMMC,128 ГБ,Intel,HD Graphics 500,,Серый
+Ноутбук HP 15s-fq2110ur (5D5E4EA),54999,Windows 11 Домашняя x64,"15.6""",1920x1080 Пикс,Intel,Core i5-1135G7,2.4 ГГц,8 ГБ,DDR4,SSD,512 ГБ,Intel,Iris Xe Graphics,,Серебристый
+Ноутбук ASUS R522MA-EJ693W,39999,,"15.6""",1920x1080 Пикс,Intel,Pentium Silver N5030,1.1 ГГц,8 ГБ,DDR4,SSD,256 ГБ,Intel,UHD Graphics 605,,Черный
+Ноутбук ASUS R429MA-EK1506W (90NB0Q11-M41660),29999,Windows 11 Домашняя,"14""",1920x1080 Пикс,Intel,Pentium Silver N5030,1.1 ГГц,4 ГБ,DDR4,SSD,128 ГБ,Intel,UHD Graphics 605,,Синий
+Ноутбук ASUS R565JF-BQ294T,39999,Windows 10 Домашняя,"15.6""",1920x1080 Пикс,Intel,Pentium 6805,1.1 ГГц,8 ГБ,DDR4,SSD,256 ГБ,NVIDIA,GeForce MX130,2 ГБ,Серебристый
+Ноутбук HUAWEI MateBook D 14 8+512GB Space Grey (NbD-WDH9),69999,Windows 11 Домашняя,"14""",1920x1080 Пикс,Intel,Core i5-1135G7,2.4 ГГц,8 ГБ,DDR4,SSD,512 ГБ,Intel,Iris Xe Graphics,,Серый
+Ноутбук ASUS R565JF-BR295T,39999,Windows 10 Домашняя,"15.6""",1366x768 Пикс,Intel,Pentium 6805,1.1 ГГц,8 ГБ,DDR4,SSD,256 ГБ,NVIDIA,GeForce MX130,2 ГБ,Серебристый
+Ноутбук ASUS M515DA-BQ1247T,44999,Windows 10 Домашняя,"15.6""",1920x1080 Пикс,AMD,Ryzen 3 3250U,2.6 ГГц,8 ГБ,DDR4,SSD,256 ГБ,AMD,Radeon Graphics,,Серебристый
+Ноутбук HUAWEI MateBook D 15 8+256GB Space Grey (BoB-WAI9),49999,Windows 10 Домашняя x64,"15.6""",1920x1080 Пикс,Intel,Core i3-10110U,2.1 ГГц,8 ГБ,DDR4,SSD,256 ГБ,Intel,UHD Graphics 620,,Серый
+Ноутбук Irbis NB71,11999,Windows 10 Домашняя,"13.3""",1920x1080 Пикс,Intel,Atom Z3735F,1.33 ГГц,2 ГБ,DDR3L,eMMC,32 ГБ,Intel,Intel HD Graphics,,Черный
+Ноутбук ASUS R522MA-BQ862W,25999,Windows 11 Домашняя x64,"15.6""",1920x1080 Пикс,Intel,Celeron N4020,1.1 ГГц,4 ГБ,DDR4,eMMC,128 ГБ,Intel,UHD Graphics 600,,Синий
+Ноутбук Lenovo IdeaPad 1 14IGL05 (81VU007XRU),24999,Windows 10,"14""",1920x1080 Пикс,Intel,Celeron N4020,1.1 ГГц,4 ГБ,DDR4,SSD,128 ГБ,Intel,UHD Graphics 600,,Серый
+Ноутбук HP 15s-fq0095ur (669Y0EA),34999,Windows 11 Домашняя x64,"15.6""",1920x1080 Пикс,Intel,Celeron N4120,1.1 ГГц,4 ГБ,DDR4,SSD,256 ГБ,Intel,UHD Graphics 600,,Серый
+Ноутбук HUAWEI MateBook 14 KLVL-W56W 16+512GB Space Grey,79999,Windows 10 Домашняя x64,"14""",2160x1440 Пикс,AMD,Ryzen 5 5500U,2.1 ГГц,16 ГБ,DDR4,SSD,512 ГБ,AMD,AMD Radeon,,Серый
+Ноутбук HP 250 G7 (197W0EA),29999,Windows 10,"15.6""",1920x1080 Пикс,Intel,Celeron N4020,1.1 ГГц,4 ГБ,DDR4,SSD,128 ГБ,Intel,UHD Graphics 600,,Серый
+Ноутбук Acer Aspire 1 A114-21-R0ME (NX.A7QER.00A),27999,Windows 10,"14""",1366x768 Пикс,AMD,Athlon Silver 3050U,2.3 ГГц,4 ГБ,DDR4,eMMC,128 ГБ,AMD,Radeon Graphics,,Черный
+Ноутбук HP 15s-fq2151ur (5R9R8EA),54999,Windows 11 Домашняя x64,"15.6""",1920x1080 Пикс,Intel,Core i3-1115G4,3 ГГц,8 ГБ,DDR4,SSD,512 ГБ,Intel,UHD Graphics,,Серый
+Ноутбук ASUS R565MA-BR658W,29999,,"15.6""",1920x1080 Пикс,Intel,Pentium Silver N5030,1.1 ГГц,4 ГБ,DDR4,SSD,128 ГБ,Intel,UHD Graphics 605,,Серебристый
+Ноутбук-трансформер Lenovo Flex 3 11ADA05 (82G4002KRU),26999,Windows 10 Домашняя x64,"11.6""",1920x1080 Пикс,AMD,Athlon Silver 3050E,1.4 ГГц,4 ГБ,DDR4,eMMC,64 ГБ,AMD,Radeon Graphics,,Синий
+Ноутбук Acer Aspire 3 A314-22-R632 (NX.HVVER.015),39999,Без ОС,"14""",1920x1080 Пикс,AMD,Ryzen 3 3250U,2.6 ГГц,8 ГБ,DDR4,SSD,256 ГБ,AMD,Radeon Graphics,,Черный
+Ноутбук HP 15s-eq1349ur (491L4EA),48999,Windows 10 Домашняя x64,"15.6""",1920x1080 Пикс,AMD,Ryzen 3 4300U,2.7 ГГц,8 ГБ,DDR4,SSD,256 ГБ,AMD,Radeon Graphics,,Серый
+Ноутбук HP 15s-eq2122ur (601F9EA),47999,Windows 11 Домашняя x64,"15.6""",1920x1080 Пикс,AMD,Ryzen 5 5500U,2.1 ГГц,8 ГБ,DDR4,SSD,256 ГБ,AMD,Radeon,,Черный
+Ноутбук ASUS R522MA-EJ891W (90NB0Q64-M003P0),39999,Windows 11 Домашняя,"15.6""",1920x1080 Пикс,Intel,Celeron N4020,1.1 ГГц,4 ГБ,DDR4,eMMC,128 ГБ,Intel,HD Graphics 600,,Синий
+Ноутбук ASUS R565JF-BR367 (90NB0SW2-M000A0),39999,Без ОС,"15.6""",1366x768 Пикс,Intel,Pentium 6805,1.1 ГГц,4 ГБ,DDR4,SSD,256 ГБ,NVIDIA,GeForce MX130,2 ГБ,Серый
+Ноутбук Lenovo IdeaPad 3 15IGL05 (81WQ00J9RU),44999,Windows 11 Домашняя x64,"15.6""",1920x1080 Пикс,Intel,Celeron N4020,1.1 ГГц,8 ГБ,DDR4,SSD,256 ГБ,Intel,UHD Graphics 600,,Серый
+Игровой ноутбук Acer Aspire 7 A715-75G-51PD (NH.Q99ER.00R),74999,Windows 11 Домашняя x64,"15.6""",1920x1080 Пикс,Intel,Core i5-10300H,2.5 ГГц,8 ГБ,DDR4,SSD,512 ГБ,NVIDIA,GeForce GTX 1650,4 ГБ,Черный
+Ноутбук Honor MagicBook 16 R5/16/512 Space Grey (HYM-W56),89999,Windows 11 Домашняя x64,"16.1""",1920x1080 Пикс,AMD,Ryzen 5 5600H,3.3 ГГц,16 ГБ,DDR4,SSD,512 ГБ,AMD,Radeon Graphics,,Серый
+Ноутбук ASUS R214MA-GJ057T,21999,Windows 10 Домашняя,"11.6""",1366x768 Пикс,Intel,Celeron N4020,1.1 ГГц,4 ГБ,DDR4,eMMC,64 ГБ,Intel,Intel UHD Graphics 600,,Синий
+Ноутбук Honor MagicBook X 15 i3/8/256 Space Gray (BBR-WAI9),52999,Windows 10 Домашняя x64,"15.6""",1920x1280 Пикс,Intel,Core i3-10110U,2.1 ГГц,8 ГБ,DDR4,SSD,256 ГБ,Intel,Intel UHD Graphics,,Серый
+Ноутбук HP 250 G7 (2V0F0ES),29999,Windows 10 Домашняя,"15.6""",1366x768 Пикс,Intel,Celeron N4020,1.1 ГГц,4 ГБ,DDR4,SSD,256 ГБ,Intel,UHD Graphics 600,,Серый
+Ноутбук ASUS F409FA-EK575T,25999,Windows 10 Домашняя,"14""",1920x1080 Пикс,Intel,Pentium Gold 5405U,2.3 ГГц,4 ГБ,DDR4,SSD,128 ГБ,Intel,Intel HD Graphics 520,,Серебристый
+Ноутбук HP 15s-eq1315ur (3B4S7EA),34999,Windows 10 Домашняя x64,"15.6""",1920x1080 Пикс,AMD,Athlon Gold 3150U,2.4 ГГц,8 ГБ,DDR4,SSD,256 ГБ,AMD,Radeon,,Серый
+Ноутбук ASUS R565MA-BR391T,34999,Windows 10 Домашняя,"15.6""",1366x768 Пикс,Intel,Pentium Silver N5030,1.1 ГГц,,,SSD,256 ГБ,Intel,Intel UHD Graphics 605,,Серебристый
+Ноутбук Irbis NB64,13999,Windows 10,"13.3""",1920x1080 Пикс,Intel,Atom x5-Z8350,1.44 ГГц,2 ГБ,LPDDR3,eMMC,32 ГБ,Intel,Intel HD Graphics,,Черный
+Ноутбук Digma Eve 11 C408 (ES2055EW),13999,Windows 10 Домашняя x64,"11.6""",1920x1080 Пикс,Intel,Celeron N3350,1.1 ГГц,4 ГБ,LPDDR4,eMMC,64 ГБ,Intel,HD Graphics 500,,Черный
+Ноутбук Acer Aspire 1 A115-22-R7NA (NX.A7NER.007),29999,Windows 10 Домашняя,"15.6""",1366x768 Пикс,AMD,Athlon Silver 3050U,2.3 ГГц,4 ГБ,DDR4,SSD,128 ГБ,AMD,Radeon Graphics,,Черный
+Ноутбук Acer Aspire 3 A315-35-C0T9 (NX.A6LER.001),27999,Без ОС,"15.6""",1920x1080 Пикс,Intel,Celeron N4500,1.1 ГГц,4 ГБ,DDR4,SSD,256 ГБ,Intel,UHD Graphics,,Серебристый
+Ноутбук Digma EVE 15 P418 (ES5064EW),17999,Windows 10 x64,"15.6""",1920x1080 Пикс,Intel,Pentium J3710,1.6 ГГц,4 ГБ,DDR4,eMMC,128 ГБ,Intel,Intel HD Graphics 405,,Серый
+Ультрабук Acer Swift 1 SF114-34-P8NR (NX.A77ER.006),33999,Windows 10 Домашняя в S-режиме,"14""",1920x1080 Пикс,Intel,Pentium Silver N6000,1.1 ГГц,4 ГБ,LPDDR4X,SSD,256 ГБ,Intel,UHD Graphics,,Серебристый
+Ноутбук HUAWEI MateBook 14s 16+512GB Spruce Green (HKD-W76),119999,Windows 10 Домашняя x64,"14.2""",2520x1680 Пикс,Intel,Core i7-11370H,,16 ГБ,LPDDR4X,SSD,512 ГБ,Intel,Iris Graphics,,Зеленый
+Ноутбук-трансформер Lenovo IdeaPad Flex 3 11ADA05 (82G4002HRU),35999,Windows 10 Домашняя x64,"11.6""",1920x1080 Пикс,AMD,3020e,1.2 ГГц,4 ГБ,DDR4,eMMC,64 ГБ,AMD,Radeon Graphics,,Синий
+Ноутбук Irbis NB250,22999,Windows 10,"15.6""",1920x1080 Пикс,Intel,Pentium J3710,1.6 ГГц,4 ГБ,,eMMC,128 ГБ,Intel,HD Graphics,,Черный
+Игровой ноутбук ASUS TUF Gaming F15 FX506LH-HN082T,89999,Windows 10 Домашняя,"15.6""",1920x1080 Пикс,Intel,Core i5-10300H,2.5 ГГц,8 ГБ,DDR4,SSD,512 ГБ,NVIDIA,GeForce GTX 1650,4 ГБ,"Голубой, Черный"
+Ноутбук Digma Eve 14 C410 (ES4057EW),18999,Windows 10 Домашняя x64,"14.1""",1920x1080 Пикс,Intel,Celeron N3350,1.1 ГГц,4 ГБ,DDR3,eMMC,128 ГБ,Intel,HD Graphics 500,,Серый
+Игровой ноутбук Acer Aspire 7 A715-42G-R6VJ (NH.QBFER.001),65999,Без ОС,"15.6""",1920x1080 Пикс,AMD,Ryzen 5 5500U,2.1 ГГц,8 ГБ,DDR4,SSD,256 ГБ,NVIDIA,GeForce GTX 1650,4 ГБ,Черный
+Ноутбук Honor MagicBook 15 2021 i5/16/512 Space Gray (BDR-WFH9HN),79999,Windows 10 Домашняя x64,"15.6""",1920x1080 Пикс,Intel,Core i5-1135G7,2.4 ГГц,16 ГБ,DDR4,SSD,512 ГБ,Intel,Intel Iris Graphics,,Серый
+Ноутбук Irbis NB68,9100,Windows 10,"14""",1920x1080 Пикс,Intel,Atom Z3735F,1.33 ГГц,2 ГБ,DDR3L,eMMC,32 ГБ,Intel,Intel HD Graphics,,Серебристый
+Ноутбук Digma EVE 10 C300 (ES1040EW),9999,Windows 10,"10.1""",1280x800 Пикс,Intel,Celeron N3350,1.1 ГГц,2 ГБ,DDR3L,eMMC,32 ГБ,Intel,HD Graphics 500,,Черный
+Ноутбук Apple MacBook Air 13 M1 8-core (7-core GPU)/8/256 Gold (MGND3RU/A),109999,MacOS Big Sur,"13.3""",2560x1600 Пикс,Apple,Apple M1,,8 ГБ,,SSD,256 ГБ,Apple,,,Золотистый
+Ноутбук Apple MacBook Pro 13 M1 8-core (8-core GPU)/16/512 Space Gray (Z11B),165999,MacOS,"13""",2560x1600 Пикс,Apple,Apple M1,,16 ГБ,,,512 ГБ,Apple,,,Серый
+Ноутбук Apple MacBook Air 13 M1 8-core (8-core GPU)/8/512 Space Gray (MGN73RU/A),124999,MacOS Big Sur,"13.3""",2560x1600 Пикс,Apple,Apple M1,,8 ГБ,,SSD,512 ГБ,Apple,,,Серый
+Ноутбук Apple MacBook Pro 13 M1 8-core (8-core GPU)/8/512 Space Gray (MYD92RU/A),149999,MacOS Big Sur,"13.3""",2560x1600 Пикс,Apple,Apple M1,,8 ГБ,,SSD,512 ГБ,Apple,,,Серый
+Ноутбук Honor MagicBook 15 R5/16/512 Space Grey (BMH-WFQ9HN),79999,Windows 10 Домашняя x64,"15.6""",1920x1080 Пикс,AMD,Ryzen 5 5500U,2.1 ГГц,16 ГБ,DDR4,SSD,512 ГБ,AMD,Radeon Graphics,,Серый
+Ноутбук Apple MacBook Air 13 M1 8-core (8-core GPU)/16/512GB SSD Space Gray (Z125),159999,MacOS,"13.3""",2560x1600 Пикс,Apple,Apple M1,,16 ГБ,,SSD,512 ГБ,Apple,,,Серый
 Ультрабук Acer Swift 1 SF114-33-P5NL (NX.A3FER.001),31399,FreeDOS,"14""",1920x1080 Пикс,Intel,Pentium Silver N5030,1.1 ГГц,4 ГБ,LPDDR4,SSD,128 ГБ,Intel,Intel UHD Graphics 605,,Синий
 Ноутбук Acer Aspire 3 A315-23-R7CZ (NX.HVTER.028),36999,Windows 10 Домашняя x64,"15.6""",1366x768 Пикс,AMD,Ryzen 3 3250U,2.6 ГГц,8 ГБ,DDR4,SSD,256 ГБ,AMD,Radeon Graphics,,Черный
 Ноутбук HP 15s-eq2099ur (5D647EA),64999,FreeDOS,"15.6""",1920x1080 Пикс,AMD,Ryzen 5 5500U,2.1 ГГц,16 ГБ,DDR4,SSD,512 ГБ,AMD,Radeon,,Серебристый
@@ -23,15 +93,16 @@
 Ноутбук Honor MagicBook View 14 i5/16/512 Blue (HGE-W56),99999,Windows 11 Домашняя x64,"14.2""",2520x1680 Пикс,Intel,Core i5-11320H,2.5 ГГц,16 ГБ,LPDDR4X,SSD,512 ГБ,Intel,Intel Iris Xe Graphics,,Синий
 Ноутбук ASUS VivoBook 15 R528EP-BQ438T,56999,Windows 10 Домашняя,"15.6""",1920x1080 Пикс,Intel,Core i3-1115G4,3 ГГц,8 ГБ,DDR4,SSD,256 ГБ,NVIDIA,GeForce MX330,2 ГБ,Черный
 Игровой ноутбук Acer Aspire 7 A715-42G-R3FW (NH.QDLER.003),99999,Windows 11 Домашняя x64,"15.6""",1920x1080 Пикс,AMD,Ryzen 5 5500U,2.1 ГГц,16 ГБ,DDR4,SSD,512 ГБ,NVIDIA,GeForce RTX 3050 Ti,4 ГБ,Черный
-Ноутбук ASUS VivoBook S14 S433JQ-EB076T,59999,Windows 10 Домашняя x64,"14""",1920x1080 Пикс,Intel,Core i5-1035G1,1 ГГц,8 ГБ,DDR4,SSD,512 ГБ,NVIDIA,GeForce MX350,2 ГБ,Черный
 Ноутбук Irbis NB266,22999,Windows 10,"15.6""",1920x1080 Пикс,Intel,Pentium J3710,1.6 ГГц,4 ГБ,,eMMC,128 ГБ,Intel,HD Graphics,,Серый
+Ноутбук ASUS VivoBook S14 S433JQ-EB076T,59999,Windows 10 Домашняя x64,"14""",1920x1080 Пикс,Intel,Core i5-1035G1,1 ГГц,8 ГБ,DDR4,SSD,512 ГБ,NVIDIA,GeForce MX350,2 ГБ,Черный
 Ноутбук HUAWEI MateBook D 15 BoD-WFE9 16+512GB Space Grey,89999,Windows 11 Домашняя x64,"15.6""",1920x1080 Пикс,Intel,Core i7-1165G7,2.8 ГГц,16 ГБ,DDR4,SSD,512 ГБ,Intel,Intel Iris Xe Graphics,,Серый
 Игровой ноутбук Acer Nitro AN517-54-77PS (NH.QFCER.006),159999,Windows 11 Домашняя x64,"17.3""",1920x1080 Пикс,Intel,Core i7-11800H,2.3 ГГц,16 ГБ,DDR3L,SSD,512 ГБ,NVIDIA,GeForce RTX 3070 для ноутбуков,8 ГБ,Черный
 Ноутбук-трансформер Irbis NB121,16999,Windows 10,"11.6""",1366x768 Пикс,Intel,Celeron N4020,1.1 ГГц,4 ГБ,LPDDR3,eMMC,64 ГБ,Intel,Intel UHD Graphics 600,,Черный
-Ноутбук HUAWEI MateBook X Pro 16+1TB Emerald Green (MACHD-WFE9Q),139999,Windows 10 Домашняя x64,"13.9""",3000x2000 Пикс,Intel,Core i7-1165G7,2.8 ГГц,16 ГБ,LPDDR4X,SSD,1 ТБ,Intel,Iris Graphics,,Зеленый
 Ноутбук Lenovo IdeaPad 3 15IIL05 (81WE01BFRU),44999,,"15.6""",1920x1080 Пикс,Intel,Core i3-1005G1,1.2 ГГц,8 ГБ,DDR4,SSD,256 ГБ,Intel,Intel UHD Graphics,,Серебристый
 Ноутбук HUAWEI MateBook 14S HKD-W76 16+1TB Space Grey с платформой Intel Evo,129999,Windows 10 Домашняя x64,"14.2""",2520x1680 Пикс,Intel,Core i7-11370H,,16 ГБ,LPDDR4X,SSD,1 ТБ,Intel,Iris Graphics,,Серый
 Ноутбук Honor MagicBook X15 i5/16/512 Space Gray (BBR-WAH9),69999,Windows 10 Домашняя x64,"15.6""",1920x1080 Пикс,Intel,Core i5-10210U,1.6 ГГц,16 ГБ,DDR4,SSD,512 ГБ,Intel,UHD Graphics,,Серый
 Ноутбук ASUS M513IA-BQ547T,64999,Windows 10 Домашняя,"15.6""",1920x1080 Пикс,AMD,Ryzen 7 4700U,2 ГГц,8 ГБ,DDR4,SSD,512 ГБ,AMD,Radeon Graphics,,Черный
 Ноутбук Honor MagicBook 15 R5/8/512 Silver (BMH-WDQ9HN),69999,Windows 10 Домашняя x64,"15.6""",1920x1080 Пикс,AMD,Ryzen 5 5500U,2.1 ГГц,8 ГБ,DDR4,SSD,512 ГБ,AMD,Radeon Graphics,,Серебристый
+Ноутбук ASUS R214MA-GJ373T,21999,Windows 10 Домашняя,"11.6""",1366x768 Пикс,Intel,Celeron N4020,1.1 ГГц,4 ГБ,DDR4,eMMC,128 ГБ,Intel,Intel UHD Graphics 600,,Синий
 Ноутбук ASUS R429MA-BV1505W,25999,Windows 11 Домашняя,"14""",1366x768 Пикс,Intel,Celeron N4020,1.1 ГГц,4 ГБ,DDR4,SSD,128 ГБ,Intel,UHD Graphics 600,,"Синий, Черный"
+Ноутбук Acer Aspire 3 A315-57G (NX.HZRER.01V),49999,Windows 10 Домашняя x64,"15.6""",1366x768 Пикс,Intel,Core i3-1005G1,1.2 ГГц,8 ГБ,DDR4,SSD,256 ГБ,NVIDIA,GeForce MX330,2 ГБ,Черный
