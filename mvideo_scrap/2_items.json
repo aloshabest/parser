@@ -13,7 +13,7 @@
                 "modelName": "17-cp0126ur 5D666EA",
                 "rating": {
                     "star": 5,
-                    "count": 7,
+                    "count": 8,
                     "percent": 101
                 },
                 "supplier": null,
@@ -185,7 +185,7 @@
                         "value": "Windows 11 Домашняя 64",
                         "nameDescription": "Комплекс программ для управления компьютером.  В современных устройствах используются операционные системы (ОС) Windows, Linux и macOS.​",
                         "valueDescription": null,
-                        "priority": 10,
+                        "priority": 14,
                         "measure": null
                     }
                 ]
@@ -833,13 +833,13 @@
                         "measure": null
                     },
                     {
-                        "id": 30852971,
-                        "name": "Операционная система",
-                        "value": "Windows 10 Домашняя",
-                        "nameDescription": "Комплекс программ для управления компьютером.  В современных устройствах используются операционные системы (ОС) Windows, Linux и macOS.​",
+                        "id": 30850653,
+                        "name": "Объем eMMC",
+                        "value": "64",
+                        "nameDescription": "Максимальная вместимость интегрированной памяти (распаяна на плате). Влияет на количество хранимой информации и устанавливаемых программ.",
                         "valueDescription": null,
-                        "priority": 10,
-                        "measure": null
+                        "priority": 11,
+                        "measure": "ГБ"
                     }
                 ]
             },
@@ -1123,7 +1123,7 @@
                 "modelName": "Aspire 7 A715-42G-R44J (NH.QDLER.004)",
                 "rating": {
                     "star": 5,
-                    "count": 4,
+                    "count": 5,
                     "percent": 101
                 },
                 "supplier": null,
@@ -1390,13 +1390,13 @@
                         "measure": null
                     },
                     {
-                        "id": 30852971,
-                        "name": "Операционная система",
-                        "value": "Windows 10",
-                        "nameDescription": "Комплекс программ для управления компьютером.  В современных устройствах используются операционные системы (ОС) Windows, Linux и macOS.​",
+                        "id": 30850653,
+                        "name": "Объем eMMC",
+                        "value": "128",
+                        "nameDescription": "Максимальная вместимость интегрированной памяти (распаяна на плате). Влияет на количество хранимой информации и устанавливаемых программ.",
                         "valueDescription": null,
-                        "priority": 10,
-                        "measure": null
+                        "priority": 11,
+                        "measure": "ГБ"
                     }
                 ]
             },
@@ -1762,13 +1762,13 @@
                         "measure": null
                     },
                     {
-                        "id": 30852971,
-                        "name": "Операционная система",
-                        "value": "Windows 10 Домашняя",
-                        "nameDescription": "Комплекс программ для управления компьютером.  В современных устройствах используются операционные системы (ОС) Windows, Linux и macOS.​",
+                        "id": 30850653,
+                        "name": "Объем eMMC",
+                        "value": "128",
+                        "nameDescription": "Максимальная вместимость интегрированной памяти (распаяна на плате). Влияет на количество хранимой информации и устанавливаемых программ.",
                         "valueDescription": null,
-                        "priority": 10,
-                        "measure": null
+                        "priority": 11,
+                        "measure": "ГБ"
                     }
                 ]
             },
@@ -1951,99 +1951,6 @@
                 ]
             },
             {
-                "productId": "30060754",
-                "name": "Ноутбук Acer Aspire 3 A314-22-R2BV NX.HVVER.00Z",
-                "nameTranslit": "noutbuk-acer-aspire-3-a314-22-r2bv-nxhvver00z",
-                "productType": "DIG",
-                "materialCisNumber": "30060754",
-                "materialSource": "ERP",
-                "modelName": "Aspire 3 A314-22-R2BV NX.HVVER.00Z",
-                "rating": {
-                    "star": 4.6,
-                    "count": 10,
-                    "percent": 91
-                },
-                "supplier": null,
-                "vendorCatalog": null,
-                "sublicense": false,
-                "partnerType": null,
-                "preorder": null,
-                "isMprimeSubscription": false,
-                "image": "Pdb/small_pic/480/30060754b.jpg",
-                "brandId": "93",
-                "brandName": "Acer",
-                "status": {
-                    "showCase": true,
-                    "availableOnlyInRetailStore": false,
-                    "soldOut": false,
-                    "isCannotBeExchanged": false
-                },
-                "category": {
-                    "id": "987",
-                    "name": "Ноутбуки"
-                },
-                "properties": null,
-                "images": [
-                    "Pdb/30060754.jpg",
-                    "Pdb/30060754b.jpg",
-                    "Pdb/30060754b1.jpg",
-                    "Pdb/30060754b2.jpg",
-                    "Pdb/30060754b21.jpg",
-                    "Pdb/30060754b22.jpg",
-                    "Pdb/30060754b23.jpg",
-                    "Pdb/30060754b24.jpg",
-                    "Pdb/30060754b3.jpg",
-                    "Pdb/30060754s.jpg"
-                ],
-                "propertiesPortion": [
-                    {
-                        "id": 621,
-                        "name": "Диагональ/разрешение",
-                        "value": "14\"/1920x1080 пикс.",
-                        "nameDescription": null,
-                        "valueDescription": null,
-                        "priority": 1,
-                        "measure": null
-                    },
-                    {
-                        "id": 30852930,
-                        "name": "Процессор",
-                        "value": "AMD Ryzen 3 3250U 2.6 ГГц",
-                        "nameDescription": null,
-                        "valueDescription": null,
-                        "priority": 2,
-                        "measure": null
-                    },
-                    {
-                        "id": 30852805,
-                        "name": "Оперативная память (RAM)",
-                        "value": "8",
-                        "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
-                        "valueDescription": null,
-                        "priority": 4,
-                        "measure": "ГБ"
-                    },
-                    {
-                        "id": 620,
-                        "name": "Графический контроллер",
-                        "value": "Radeon Graphics",
-                        "nameDescription": "Модуль компьютера, отвечающий за обработку графической составляющей данных.",
-                        "valueDescription": null,
-                        "priority": 5,
-                        "measure": null
-                    },
-                    {
-                        "id": 30850950,
-                        "name": "Объем SSD",
-                        "value": "512 ГБ",
-                        "nameDescription": null,
-                        "valueDescription": null,
-                        "priority": 7,
-                        "measure": null
-                    }
-                ]
-            },
-            {
                 "productId": "30057546",
                 "name": "Ноутбук Lenovo IdeaPad 3 14ADA05 (81W000KNRU)",
                 "nameTranslit": "noutbuk-lenovo-ideapad-3-14ada05-81w000knru",
@@ -2216,6 +2123,98 @@
                         "id": 30850950,
                         "name": "Объем SSD",
                         "value": "512 ГБ",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 7,
+                        "measure": null
+                    }
+                ]
+            },
+            {
+                "productId": "30061553",
+                "name": "Ноутбук HP 15s-eq2122ur 601F9EA",
+                "nameTranslit": "noutbuk-hp-15s-eq2122ur-601f9ea",
+                "productType": "DIG",
+                "materialCisNumber": "30061553",
+                "materialSource": "ERP",
+                "modelName": "15s-eq2122ur 601F9EA",
+                "rating": {
+                    "star": 5,
+                    "count": 6,
+                    "percent": 101
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30061553b.jpg",
+                "brandId": "534",
+                "brandName": "HP",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "987",
+                    "name": "Ноутбуки"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30061553.jpg",
+                    "Pdb/30061553b.jpg",
+                    "Pdb/30061553b1.jpg",
+                    "Pdb/30061553b2.jpg",
+                    "Pdb/30061553b21.jpg",
+                    "Pdb/30061553b22.jpg",
+                    "Pdb/30061553b23.jpg",
+                    "Pdb/30061553b24.jpg",
+                    "Pdb/30061553s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 621,
+                        "name": "Диагональ/разрешение",
+                        "value": "15.6\"/1920x1080 пикс.",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852930,
+                        "name": "Процессор",
+                        "value": "AMD Ryzen 5 5500U 2.1 ГГц",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852805,
+                        "name": "Оперативная память (RAM)",
+                        "value": "8",
+                        "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 620,
+                        "name": "Графический контроллер",
+                        "value": "Radeon",
+                        "nameDescription": "Модуль компьютера, отвечающий за обработку графической составляющей данных.",
+                        "valueDescription": null,
+                        "priority": 5,
+                        "measure": null
+                    },
+                    {
+                        "id": 30850950,
+                        "name": "Объем SSD",
+                        "value": "256 ГБ",
                         "nameDescription": null,
                         "valueDescription": null,
                         "priority": 7,

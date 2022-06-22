@@ -75,28 +75,40 @@ def create_eldo_excel():
         for col, h in enumerate(headers):
             ws.write_string(0, col, h, cell_format=bold)
 
+
         with open('eldo_scrap/products.json', encoding='utf-8') as file:
             data = json.load(file)
 
         for row, item in enumerate(data, start=1):
             ws.write_string(row, 0, data[item].get('name'))
-            ws.write_string(row, 1, str(data[item].get('price')))
-            ws.write_string(row, 2, str(data[item].get('Операционная система')))
-            ws.write_string(row, 3, data[item].get('Диагональ экрана'))
-            ws.write_string(row, 4, data[item].get('Разрешение экрана'))
-            ws.write_string(row, 5, data[item].get('Производитель процессора'))
-            ws.write_string(row, 6, data[item].get('Модель процессора'))
-            ws.write_string(row, 7, data[item].get('Тактовая частота'))
-            ws.write_string(row, 8, data[item].get('Объем оперативной памяти'))
-            ws.write_string(row, 9, data[item].get('Тип оперативной памяти'))
-            ws.write_string(row, 10, data[item].get('Тип накопителя'))
-            ws.write_string(row, 11, data[item].get('Объем накопителя'))
-            ws.write_string(row, 12, data[item].get('Производитель видеокарты'))
-            ws.write_string(row, 13, data[item].get('Модель видеокарты'))
+            if data[item].get('price'):
+                ws.write_string(row, 1, str(data[item].get('price')))
+            if data[item].get('Операционная система'):
+                ws.write_string(row, 2, str(data[item].get('Операционная система')))
+            if data[item].get('Диагональ экрана'):
+                ws.write_string(row, 3, data[item].get('Диагональ экрана'))
+            if data[item].get('Разрешение экрана'):
+                ws.write_string(row, 4, data[item].get('Разрешение экрана'))
+            if data[item].get('Производитель процессора'):
+                ws.write_string(row, 5, data[item].get('Производитель процессора'))
+            if data[item].get('Модель процессора'):
+                ws.write_string(row, 6, data[item].get('Модель процессора'))
+            if data[item].get('Тактовая частота'):
+                ws.write_string(row, 7, data[item].get('Тактовая частота'))
+            if data[item].get('Объем оперативной памяти'):
+                ws.write_string(row, 8, data[item].get('Объем оперативной памяти'))
+            if data[item].get('Тип оперативной памяти'):
+                ws.write_string(row, 9, data[item].get('Тип оперативной памяти'))
+            if data[item].get('Тип накопителя'):
+                ws.write_string(row, 10, data[item].get('Тип накопителя'))
+            if data[item].get('Объем накопителя'):
+                ws.write_string(row, 11, data[item].get('Объем накопителя'))
+            if data[item].get('Производитель видеокарты'):
+                ws.write_string(row, 12, data[item].get('Производитель видеокарты'))
+            if data[item].get('Модель видеокарты'):
+                ws.write_string(row, 13, data[item].get('Модель видеокарты'))
             if data[item].get('Объем видеопамяти'):
                 ws.write_string(row, 14, str(data[item].get('Объем видеопамяти')))
-            else:
-                ws.write_string(row, 14, '')
             ws.write_string(row, 15, str(data[item].get('Цвет')))
 
 
