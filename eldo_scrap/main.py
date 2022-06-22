@@ -120,71 +120,45 @@ def get_data(i):
         'smallFacetValues': '[]',
         'tags': '[]',
     }
-    if i == 0:
-        params['offset'] = 0
-        name_scrap = "products_0.json"
-    if i == 1:
-        params['offset'] = 35
-        name_scrap = "products_1.json"
-    if i == 2:
-        params['offset'] = 70
-        name_scrap = "products_2.json"
-
-
-    response = requests.get('https://www.eldorado.ru/sem/v3/A408/categories/noutbuki/products', params=params,
-                            cookies=cookies, headers=headers).json()
 
 
 
-    #Запись списка ID в файл
     items = {}
-
-    products = response.get('data')
-    for item in products:
-        product_id = item.get('id')
-        name = item.get('name')
-        price = item.get('price')
-        lst = item.get('listingDescription')
-        properties = {i.get('name'): i.get('attributeNameToValueMap') for i in lst}
-        items[product_id] = {
-            'name': name,
-            "price": price
-        }
-
-        for v in properties.values():
-            for key, value in v.items():
-                items[product_id][key] = value
+    x = -36
+    for j in range(i):
+        x += 36
+        params['offset'] = x
 
 
-    with open(f'{name_scrap}', 'w', encoding='utf-8') as file:
-        json.dump(items, file, indent=4, ensure_ascii=False)
+        response = requests.get('https://www.eldorado.ru/sem/v3/A408/categories/noutbuki/products', params=params,
+                                cookies=cookies, headers=headers).json()
 
 
+        products = response.get('data')
+        for item in products:
+            product_id = item.get('id')
+            name = item.get('name')
+            price = item.get('price')
+            lst = item.get('listingDescription')
+            properties = {i.get('name'): i.get('attributeNameToValueMap') for i in lst}
+            items[product_id] = {}
+            items[product_id]['name'] = name
+            items[product_id]['price'] = price
 
-def get_products():
-    items = {}
-    for i in range(3):
-        if i == 0:
-            name_scrap = "products_0.json"
-        if i == 1:
-            name_scrap = "products_1.json"
-        if i == 2:
-            name_scrap = "products_2.json"
+            for v in properties.values():
+                for key, value in v.items():
+                    items[product_id][key] = value
 
-        with open(f'{name_scrap}', encoding='utf-8') as file:
-            data = json.load(file)
-
-        for item in data:
-            items[item] = data.get(item)
 
     with open('products.json', 'w', encoding='utf-8') as file:
         json.dump(items, file, indent=4, ensure_ascii=False)
 
 
+
 def main():
-    for i in range(3):
-        get_data(i)
-    get_products()
+    #количество страниц в поиске
+    i = 5
+    get_data(i)
 
 if __name__ == '__main__':
     main()
